@@ -35,7 +35,7 @@ class PlayerTest(unittest.TestCase):
             "players": [                                    # An array of the players. The order stays the same during the
                 {                                           #     entire tournament
                     "id": 0,                                # Id of the player (same as the index)
-                    "name": "Albert",                       # Name specified in the tournament config
+                    "name": "Gustav",                       # Name specified in the tournament config
                     "status": "active",                     # Status of the player:
                                                             #   - active: the player can make bets, and win the current pot
                                                             #   - folded: the player folded, and gave up interest in
