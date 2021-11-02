@@ -84,7 +84,7 @@ class PlayerTest(unittest.TestCase):
                     "suit": "hearts"
                 },
                 {
-                    "rank": "6",
+                    "rank": "7",
                     "suit": "clubs"
                 }
             ]
