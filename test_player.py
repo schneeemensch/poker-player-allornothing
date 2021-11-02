@@ -48,7 +48,7 @@ class PlayerTest(unittest.TestCase):
                 },
                 {
                     "id": 1,                                # Your own player looks similar, with one extension.
-                    "name": "Bob",
+                    "name": "Rob",
                     "status": "active",
                     "version": "Default random player",
                     "stack": 1590,
