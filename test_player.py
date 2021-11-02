@@ -76,7 +76,7 @@ class PlayerTest(unittest.TestCase):
             ],
             "community_cards": [                            # Finally the array of community cards.
                 {
-                    "rank": "4",
+                    "rank": "5",
                     "suit": "spades"
                 },
                 {
